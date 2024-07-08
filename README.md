@@ -38,8 +38,7 @@ logging.level.com.bancoamericano=DEBUG
 
 Para acessar e executar o projeto localmente, siga estas etapas:
 # Clone o repositório:
-git clone https://github.com/seu_usuario/ms-customer.git
-cd ms-customer
+git clone (https://github.com/Luana-And/PbAbrilDes3_LuanaDeAndrade.git)
 
 # Importe o projeto na sua IDE:
 Abra o projeto na sua IDE escolhida (por exemplo, IntelliJ IDEA).
